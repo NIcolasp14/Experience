@@ -81,7 +81,7 @@ This is a point of reference to everything I am familiarised with.
 <pre>
 * C             (focused on: algorithms, operating systems)
 * C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
-* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)
+* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
 * Prolog        (used for: logic associated problems and machine learning)
 * SML           (used for: function logic associated problems)
 * Java          (object-oriented/backend/frontend)
