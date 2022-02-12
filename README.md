@@ -67,6 +67,6 @@ This is a point of reference to everything I am familiarised with.
 * Verilog
 
 ## OS
-* MacOS
-* Windows
-* Linux
+1. MacOS
+2. Windows
+3. Linux
