@@ -8,6 +8,7 @@ This is a point of reference to everything I am familiarised with.
 * SWI Prolog
 * Visual Studio Code
 * Visual Paradigm
+* Camunda modeler(for BPMN) 
 * Postman
 * Youtrack(agile management, scrum)
 * Robo3T
@@ -20,8 +21,7 @@ This is a point of reference to everything I am familiarised with.
 * emu8086
 * Microchip Studio
 * Matlab
-* GNU octave
-* Camunda modeler(for BPMN)  
+* GNU octave 
 * (https://nosqldbm.ru/) for JSON schema diagram formation
 * (https://www.onlinegdb.com) online compiler for many languages
 * (https://sosml.org/editor?0&) standard ml online compiler
@@ -35,7 +35,7 @@ This is a point of reference to everything I am familiarised with.
 * Matlab
 * GNU octave
 
-## tech stack  
+## tech stacks  
 1. MERN
 * MongoDB
 * Express js
@@ -48,12 +48,11 @@ This is a point of reference to everything I am familiarised with.
 * Java Swing(frontend)
 
 ## languages  
-* C
-* C(focused on operating systems)
-* C++
-* Python
-* Prolog
-* SML
+* C(focused on algorithms, operating systems)
+* C++(focused on algorithms, data structures, object orientation, advanced programming techniques)
+* Python(focused on machine learning, ai algorithms, algorithms, scripts, data processing)
+* Prolog(used for logic associated problems and machine learning)
+* SML(used for function associated problems)
 * Java(object-oriented/backend/frontend)
 * Javascript(backend)
 * CSS
@@ -70,3 +69,7 @@ This is a point of reference to everything I am familiarised with.
 1. MacOS
 2. Windows
 3. Linux
+
+## Useful tools
+* adobe scan/camscanner
+* (https://www.ilovepdf.com/) for pdf processing
