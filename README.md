@@ -49,13 +49,13 @@ This is a point of reference to everything I am familiarised with.
 
 ### for electrical engineering  
 <pre>
-* LTSpice
-* PanelCad
-* Wolfram Mathematica
-* PowerWorld
-* Matlab
-* Simulink
-* GNU octave
+* LTSpice             (focused on: transistors, electronics)
+* PanelCad            (used for: architectural and electrical design)
+* Wolfram Mathematica (focused on: E/M fields I,II)
+* PowerWorld          (used for: electrical energy systems)
+* Matlab              (focused on: E/M fields I,II)
+* Simulink            (focused on: Industrial electronics)
+* GNU octave          (focused on:  E/M fields I,II, structure and electricαλ properties of materials)
 </pre>
 
 ## tech stacks 
@@ -74,11 +74,11 @@ This is a point of reference to everything I am familiarised with.
 
 ## languages 
 <pre>
-* C          (focused on algorithms, operating systems)
-* C++        (focused on algorithms, data structures, object orientation, advanced programming techniques)
-* Python     (focused on machine learning, ai algorithms, algorithms, scripts, data processing)
-* Prolog     (used for logic associated problems and machine learning)
-* SML        (used for function associated problems)
+* C          (focused on: algorithms, operating systems)
+* C++        (focused on: algorithms, data structures, object orientation, advanced programming techniques)
+* Python     (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)
+* Prolog     (used for: logic associated problems and machine learning)
+* SML        (used for: function associated problems)
 * Java       (object-oriented/backend/frontend)
 * Javascript (backend)
 * CSS
