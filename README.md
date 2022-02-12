@@ -1,5 +1,5 @@
 # tech-soft-langs  
-This is a file-point of reference to everything I am familiarised with.  
+This is a point of reference to everything I am familiarised with.  
 
 ## software  
 ### for computer engineering  
