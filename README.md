@@ -2,7 +2,8 @@
 This is a point of reference to everything I am familiarised with.  
 
 ## software  
-### for computer engineering  
+### for computer engineering 
+<pre>
 * Atom
 * Jupyter Notebooks
 * SWI Prolog
@@ -26,16 +27,20 @@ This is a point of reference to everything I am familiarised with.
 * (https://www.onlinegdb.com) online compiler for many languages
 * (https://sosml.org/editor?0&) standard ml online compiler
 * (https://rextester.com/l/prolog_online_compiler) prolog online compiler
+</pre>
 
 ### for electrical engineering  
+<pre>
 * LTSpice
 * PanelCad
 * Wolfram Mathematica
 * PowerWorld
 * Matlab
 * GNU octave
+</pre>
 
-## tech stacks  
+## tech stacks 
+<pre>
 1. MERN
 * MongoDB
 * Express js
@@ -46,9 +51,10 @@ This is a point of reference to everything I am familiarised with.
 * Postgresql
 * Java 16(backend)
 * Java Swing(frontend)
+</pre>
 
+## languages 
 <pre>
-## languages  
 * C          (focused on algorithms, operating systems)
 * C++        (focused on algorithms, data structures, object orientation, advanced programming techniques)
 * Python     (focused on machine learning, ai algorithms, algorithms, scripts, data processing)
@@ -68,10 +74,14 @@ This is a point of reference to everything I am familiarised with.
 </pre>
 
 ## OS
+<pre>
 1. MacOS
 2. Windows
 3. Linux
+</pre>
 
 ## Useful tools
+<pre>
 * adobe scan/camscanner
 * (https://www.ilovepdf.com/) for pdf processing
+</pre>
