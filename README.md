@@ -1,4 +1,4 @@
-# tech-soft-langs  
+# soft-tech-langs  
 This is a point of reference to everything I am familiarised with.  
 
 ## software  
