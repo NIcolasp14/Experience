@@ -3,32 +3,48 @@ This is a point of reference to everything I am familiarised with.
 
 ## software  
 ### for computer engineering 
-#### Editors
+#### coding
 <pre>
 * Atom
 * Bash
 * Jupyter Notebooks
-* SWI Prolog
 * Visual Studio Code
-* Visual Paradigm
-* Camunda modeler(for BPMN) 
-* Postman
-* Youtrack(agile management, scrum)
-* Robo3T
-* Git
-* Github(duh)
-* pgAdmin
 * Intellij
-* Word, Excel, Powerpoint, Pages, Numbers, Keynote
+* SWI Prolog
 * Microlab Simulator(NTUA's software)
 * emu8086
 * Microchip Studio
 * Matlab
 * GNU octave 
-* (https://nosqldbm.ru/) for JSON schema diagram formation
 * (https://www.onlinegdb.com) online compiler for many languages
 * (https://sosml.org/editor?0&) standard ml online compiler
 * (https://rextester.com/l/prolog_online_compiler) prolog online compiler
+</pre>
+#### documentation
+<pre>
+* Visual Paradigm
+* Camunda modeler(for BPMN)
+* (https://nosqldbm.ru/) for JSON schema diagram formation
+</pre>
+#### web development
+<pre>
+* Postman
+* pgAdmin
+</pre>
+#### project management
+<pre>
+* Youtrack(agile management, scrum)
+* Robo3T
+</pre>
+#### code management
+<pre>
+* Git
+* Github(duh)
+</pre>
+
+#### general purpose
+<pre>
+* Word, Excel, Powerpoint, Pages, Numbers, Keynote
 </pre>
 
 ### for electrical engineering  
