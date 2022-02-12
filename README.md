@@ -18,7 +18,7 @@ This is a point of reference to everything I am familiarised with.
 * pgAdmin
 * Intellij
 * Word, Excel, Powerpoint, Pages, Numbers, Keynote
-* Microlab Simulator (NTUA's software)
+* Microlab Simulator(NTUA's software)
 * emu8086
 * Microchip Studio
 * Matlab
