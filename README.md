@@ -3,8 +3,10 @@ This is a point of reference to everything I am familiarised with.
 
 ## software  
 ### for computer engineering 
+#### Editors
 <pre>
 * Atom
+* Bash
 * Jupyter Notebooks
 * SWI Prolog
 * Visual Studio Code
@@ -36,6 +38,7 @@ This is a point of reference to everything I am familiarised with.
 * Wolfram Mathematica
 * PowerWorld
 * Matlab
+* Simulink
 * GNU octave
 </pre>
 
@@ -84,4 +87,5 @@ This is a point of reference to everything I am familiarised with.
 <pre>
 * adobe scan/camscanner
 * (https://www.ilovepdf.com/) for pdf processing
+* Adobe Reader(useful printing options)
 </pre>
