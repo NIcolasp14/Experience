@@ -10,6 +10,7 @@ This is a point of reference to everything I am familiarised with.
 * Jupyter Notebooks
 * Visual Studio Code
 * Intellij
+* Flutter
 * SWI Prolog
 * Microlab Simulator(NTUA's software)
 * emu8086
@@ -19,6 +20,10 @@ This is a point of reference to everything I am familiarised with.
 * (https://www.onlinegdb.com) online compiler for many languages
 * (https://sosml.org/editor?0&) standard ml online compiler
 * (https://rextester.com/l/prolog_online_compiler) prolog online compiler
+</pre>
+#### creating prototypes
+<pre>
+* Figma
 </pre>
 #### documentation
 <pre>
