@@ -47,6 +47,7 @@ This is a point of reference to everything I am familiarised with.
 * Java 16(backend)
 * Java Swing(frontend)
 
+<pre>
 ## languages  
 * C          (focused on algorithms, operating systems)
 * C++        (focused on algorithms, data structures, object orientation, advanced programming techniques)
@@ -64,6 +65,7 @@ This is a point of reference to everything I am familiarised with.
 * C          (microcontroller: AVR Mega16)
 * Assembly   (microcontroller: AVR Mega16)
 * Verilog
+</pre>
 
 ## OS
 1. MacOS
