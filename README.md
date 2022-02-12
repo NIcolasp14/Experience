@@ -1,4 +1,6 @@
 # tech-soft-langs  
+This is a file-point of reference to everything I am familiarised with.  
+
 ## software  
 ### for computer engineering  
 * Atom
@@ -63,3 +65,7 @@
 * Assembly(microcontroller: AVR Mega16)
 * Verilog
 
+## OS
+* MacOS
+* Windows
+* Linux
