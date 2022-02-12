@@ -19,13 +19,11 @@
 * Microchip Studio
 * Matlab
 * GNU octave
-* Camunda modeler(for BPMN)  <br />
-
-
+* Camunda modeler(for BPMN)  
 * (https://nosqldbm.ru/) for JSON schema diagram formation
-* https://www.onlinegdb.com
-* https://sosml.org/editor?0&
-* https://rextester.com/l/prolog_online_compiler
+* (https://www.onlinegdb.com) online compiler for many languages
+* (https://sosml.org/editor?0&) standard ml online compiler
+* (https://rextester.com/l/prolog_online_compiler) prolog online compiler
 
 ### for electrical engineering  
 * LTSpice
