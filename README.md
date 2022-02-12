@@ -41,6 +41,7 @@ This is a point of reference to everything I am familiarised with.
 * Express js
 * React js
 * Node js
+(and some CSS)
 2. 
 * Postgresql
 * Java 16(backend)
