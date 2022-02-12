@@ -1,11 +1,9 @@
 # tools-soft-langs
 
-## tools  
-
-## online tools
-
 ## software
+
+## tech stack
 
 ## languages
 
-## tech stack
+
