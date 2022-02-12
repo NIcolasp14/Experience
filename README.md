@@ -55,7 +55,7 @@ This is a point of reference to everything I am familiarised with.
 * PowerWorld          (used for: electrical energy systems)
 * Matlab              (focused on: E/M fields I,II)
 * Simulink            (focused on: Industrial electronics)
-* GNU octave          (focused on:  E/M fields I,II, structure and electricαλ properties of materials)
+* GNU octave          (focused on:  E/M fields I,II, structure and electrical properties of materials)
 </pre>
 
 ## tech stacks 
@@ -78,7 +78,7 @@ This is a point of reference to everything I am familiarised with.
 * C++        (focused on: algorithms, data structures, object orientation, advanced programming techniques)
 * Python     (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)
 * Prolog     (used for: logic associated problems and machine learning)
-* SML        (used for: function associated problems)
+* SML        (used for: function logic associated problems)
 * Java       (object-oriented/backend/frontend)
 * Javascript (backend)
 * CSS
