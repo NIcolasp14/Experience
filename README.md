@@ -22,9 +22,9 @@ This is a point of reference to everything I am familiarised with.
 </pre>
 #### documentation
 <pre>
-* Visual Paradigm
-* Camunda modeler(for BPMN)
-* (https://nosqldbm.ru/) for JSON schema diagram formation
+* Visual Paradigm       (for UML/BPMN diagrams)
+* Camunda modeler       (for BPMN)
+* (https://nosqldbm.ru/)(for JSON schema diagram formation)
 </pre>
 #### web development
 <pre>
