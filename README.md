@@ -19,7 +19,7 @@
 * Microchip Studio
 * Matlab
 * GNU octave
-* Camund modeler(for BPMN) </b>
+* Camund modeler(for BPMN) <br />
 
 * (https://nosqldbm.ru/) for JSON schema diagram formation
 * https://www.onlinegdb.com
