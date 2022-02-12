@@ -74,21 +74,21 @@ This is a point of reference to everything I am familiarised with.
 
 ## languages 
 <pre>
-* C          (focused on: algorithms, operating systems)
-* C++        (focused on: algorithms, data structures, object orientation, advanced programming techniques)
-* Python     (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)
-* Prolog     (used for: logic associated problems and machine learning)
-* SML        (used for: function logic associated problems)
-* Java       (object-oriented/backend/frontend)
-* Javascript (backend)
+* C             (focused on: algorithms, operating systems)
+* C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
+* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)
+* Prolog        (used for: logic associated problems and machine learning)
+* SML           (used for: function logic associated problems)
+* Java          (object-oriented/backend/frontend)
+* Javascript    (backend)
 * CSS
 * Octave
 * Matlab
 * MIPS assembly
 * Assembly 8085
 * Assembly 8086
-* C          (microcontroller: AVR Mega16)
-* Assembly   (microcontroller: AVR Mega16)
+* C             (microcontroller: AVR Mega16)
+* Assembly      (microcontroller: AVR Mega16)
 * Verilog
 </pre>
 
