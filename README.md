@@ -1,2 +1,8 @@
-# tools-tech-langs
-tools-tech-langs I am familiar 
+# tools-soft-langs
+## tools
+
+## online tools
+
+## software
+
+## languages
