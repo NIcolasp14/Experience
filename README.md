@@ -89,7 +89,7 @@ This is a point of reference to everything I am familiarised with.
 * CSS
 * Octave
 * Matlab
-* Assembly (MIPS, 8085, 8086)
+* Assembly      (MIPS, 8085, 8086)
 * C             (microcontroller: AVR Mega16)
 * Assembly      (microcontroller: AVR Mega16)
 * Verilog
