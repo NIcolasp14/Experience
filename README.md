@@ -54,7 +54,9 @@ This is a point of reference to everything I am familiarised with.
 </pre>
 
 #### other
+<pre>
 * Weka
+</pre>
 
 ### for electrical engineering  
 <pre>
