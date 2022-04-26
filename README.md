@@ -16,7 +16,6 @@ This is a point of reference to everything I am familiarised with.
 * emu8086
 * Microchip Studio
 * R Studio
-* Weka
 * Matlab
 * GNU octave 
 * (https://www.onlinegdb.com) online compiler for many languages
@@ -53,6 +52,9 @@ This is a point of reference to everything I am familiarised with.
 <pre>
 * Word, Excel, Powerpoint, Pages, Numbers, Keynote
 </pre>
+
+#### other
+* Weka
 
 ### for electrical engineering  
 <pre>
