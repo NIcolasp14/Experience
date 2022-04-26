@@ -1,13 +1,13 @@
 # soft-tech-langs  
 This is a point of reference to everything I am familiarised with.  
 
-## software  
+## environments 
 ### for computer engineering 
 #### coding
 <pre>
 * Atom
 * Bash
-* Jupyter Notebooks
+* Jupyter Notebooks (Google Colab, Anaconda)
 * Visual Studio Code
 * Intellij
 * Flutter
@@ -15,6 +15,8 @@ This is a point of reference to everything I am familiarised with.
 * Microlab Simulator(NTUA's software)
 * emu8086
 * Microchip Studio
+* R Studio
+* Weka
 * Matlab
 * GNU octave 
 * (https://www.onlinegdb.com) online compiler for many languages
@@ -79,7 +81,7 @@ This is a point of reference to everything I am familiarised with.
 
 ## languages 
 <pre>
-* C             (focused on: algorithms, operating systems)
+* C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
 * C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
 * Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
 * Prolog        (used for: logic associated problems and machine learning)
@@ -90,9 +92,9 @@ This is a point of reference to everything I am familiarised with.
 * Octave
 * Matlab
 * Assembly      (MIPS, 8085, 8086)
-* C             (microcontroller: AVR Mega16)
 * Assembly      (microcontroller: AVR Mega16)
 * Verilog
+* R
 </pre>
 
 ## OS
