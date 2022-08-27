@@ -99,6 +99,7 @@ This is a point of reference to everything I am familiarised with.
 * Assembly      (microcontroller: AVR Mega16)
 * Verilog
 * R
+* Dart
 </pre>
 
 ## OS
