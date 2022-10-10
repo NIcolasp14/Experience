@@ -3,7 +3,7 @@ This is a point of reference to everything I am familiarised with.
 
 
 # working in environments / software familiarisation
-### for computer engineering 
+## for computer engineering 
 #### coding
 <pre>
 * Atom
@@ -57,7 +57,7 @@ This is a point of reference to everything I am familiarised with.
 * Weka
 </pre>
 
-### for electrical engineering  
+## for electrical engineering  
 <pre>
 * LTSpice             (focused on: transistors, electronics)
 * PanelCad            (used for: architectural and electrical design)
