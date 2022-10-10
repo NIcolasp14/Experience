@@ -40,6 +40,9 @@ This is a point of reference to everything I am familiarised with.
 #### project management
 <pre>
 * Youtrack(agile management, scrum)
+</pre>
+#### database management
+<pre>
 * Robo3T
 </pre>
 #### code management
