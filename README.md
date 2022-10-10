@@ -1,6 +1,53 @@
 # soft-tech-langs  
 This is a point of reference to everything I am familiarised with.  
 
+# Software Engineering
+### tech stacks 
+<pre>
+1. MERN
+* MongoDB
+* Express js
+* React js
+* Node js
+(and some CSS)
+2. 
+* Postgresql
+* Java 16(backend)
+* Java Swing(frontend)
+</pre>
+
+### architectures
+<pre>
+MVC (model-view-controller)           	                                                        
+Microservices (Docker, Kafka)   
+</pre>
+
+### web development
+<pre>
+* Postman
+* pgAdmin
+</pre>
+
+### database management
+<pre>
+* Robo3T
+</pre>
+
+### project management
+<pre>
+* Youtrack(agile management, scrum)
+</pre>
+
+### code management
+<pre>
+* Git
+* Github(duh)
+</pre>
+
+### documentation
+* Visual Paradigm       (for UML/BPMN diagrams)
+* Camunda modeler       (for BPMN)
+* (https://nosqldbm.ru/)(for JSON schema diagram formation)
 
 # working in environments / software familiarisation
 ## for computer engineering 
@@ -86,26 +133,6 @@ This is a point of reference to everything I am familiarised with.
 * Verilog
 * R
 * Dart
-</pre>
-
-# tech stacks 
-<pre>
-1. MERN
-* MongoDB
-* Express js
-* React js
-* Node js
-(and some CSS)
-2. 
-* Postgresql
-* Java 16(backend)
-* Java Swing(frontend)
-</pre>
-
-# software engineering architectures
-<pre>
-MVC (model-view-controller)           	                                                        
-Microservices (Docker, Kafka)   
 </pre>
 
 # Data Analysis	
