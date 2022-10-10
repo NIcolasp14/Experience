@@ -22,15 +22,11 @@ MVC (model-view-controller)
 Microservices (Docker, Kafka)   
 </pre>
 
-### web development
-<pre>
-* Postman
-* pgAdmin
-</pre>
-
 ### database management
 <pre>
 * Robo3T
+* Postman
+* pgAdmin
 </pre>
 
 ### project management
