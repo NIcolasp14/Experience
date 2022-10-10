@@ -36,7 +36,7 @@ This is a point of reference to everything I am familiarised with.
 
 ## software engineering architectures
 <pre>
-MVC	          (model-view-controller)           	                                                        
+MVC (model-view-controller)           	                                                        
 Microservices (Docker, Kafka)   
 </pre>
 
