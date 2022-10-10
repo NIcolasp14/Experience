@@ -36,11 +36,11 @@ This is a point of reference to everything I am familiarised with.
 
 ## software engineering architectures
 <pre>
-MVC	(model-view-controller)           	                                                        
+MVC	          (model-view-controller)           	                                                        
 Microservices (Docker, Kafka)   
 </pre>
 
-## environments 
+## working in environments / software familiarisation
 ### for computer engineering 
 #### coding
 <pre>
@@ -90,11 +90,6 @@ Microservices (Docker, Kafka)
 * Github(duh)
 </pre>
 
-#### general purpose
-<pre>
-* Word, Excel, Powerpoint, Pages, Numbers, Keynote
-</pre>
-
 #### other
 <pre>
 * Weka
@@ -117,6 +112,9 @@ Microservices (Docker, Kafka)
 2. Windows
 3. Linux
 </pre>
+
+## MS Office / iWork 							
+Word/Pages, Excel/Numbers, Power Point/Keynote, Teams              
 
 ## Useful tools
 <pre>
