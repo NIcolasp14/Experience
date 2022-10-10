@@ -41,9 +41,9 @@ Microservices (Docker, Kafka)
 </pre>
 
 ### documentation
-* Visual Paradigm       (for UML/BPMN diagrams)
-* Camunda modeler       (for BPMN)
-* (https://nosqldbm.ru/)(for JSON schema diagram formation)
+* Visual Paradigm          (for UML/BPMN diagrams)
+* Camunda modeler          (for BPMN)
+* ( https://nosqldbm.ru/ ) (for JSON schema diagram formation)
 
 # working in environments / software familiarisation
 ## for computer engineering 
