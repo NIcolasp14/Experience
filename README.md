@@ -40,6 +40,21 @@ MVC	          (model-view-controller)
 Microservices (Docker, Kafka)   
 </pre>
 
+## Data Analysis	
+<pre>
+Python, Matlab, Octave, R		                                         
+</pre>
+
+## Machine Learning & Deep Learning
+<pre>
+Python (various libraries), Pytorch, Pytorch Geometric                        
+</pre>
+
+## Objective Programming
+<pre>
+C++, Java
+</pre>
+
 ## working in environments / software familiarisation
 ### for computer engineering 
 #### coding
@@ -114,7 +129,9 @@ Microservices (Docker, Kafka)
 </pre>
 
 ## MS Office / iWork 							
-Word/Pages, Excel/Numbers, Power Point/Keynote, Teams              
+<pre>
+Word/Pages, Excel/Numbers, Power Point/Keynote, Teams 
+</pre>
 
 ## Useful tools
 <pre>
