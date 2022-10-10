@@ -1,61 +1,8 @@
 # soft-tech-langs  
 This is a point of reference to everything I am familiarised with.  
 
-## languages 
-<pre>
-* C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
-* C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
-* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
-* Prolog        (used for: logic associated problems and machine learning)
-* SML           (used for: function logic associated problems)
-* Java          (object-oriented/backend/frontend)
-* Javascript    (backend)
-* CSS
-* Octave
-* Matlab
-* Assembly      (MIPS, 8085, 8086)
-* Assembly      (microcontroller: AVR Mega16)
-* Verilog
-* R
-* Dart
-</pre>
 
-## tech stacks 
-<pre>
-1. MERN
-* MongoDB
-* Express js
-* React js
-* Node js
-(and some CSS)
-2. 
-* Postgresql
-* Java 16(backend)
-* Java Swing(frontend)
-</pre>
-
-## software engineering architectures
-<pre>
-MVC (model-view-controller)           	                                                        
-Microservices (Docker, Kafka)   
-</pre>
-
-## Data Analysis	
-<pre>
-Python, Matlab, Octave, R		                                         
-</pre>
-
-## Machine Learning & Deep Learning
-<pre>
-Python (various libraries), Pytorch, Pytorch Geometric                        
-</pre>
-
-## Objective Programming
-<pre>
-C++, Java
-</pre>
-
-## working in environments / software familiarisation
+# working in environments / software familiarisation
 ### for computer engineering 
 #### coding
 <pre>
@@ -121,19 +68,74 @@ C++, Java
 * GNU octave          (focused on:  E/M fields I,II, structure and electrical properties of materials)
 </pre>
 
-## OS
+
+# languages 
+<pre>
+* C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
+* C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
+* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
+* Prolog        (used for: logic associated problems and machine learning)
+* SML           (used for: function logic associated problems)
+* Java          (object-oriented/backend/frontend)
+* Javascript    (backend)
+* CSS
+* Octave
+* Matlab
+* Assembly      (MIPS, 8085, 8086)
+* Assembly      (microcontroller: AVR Mega16)
+* Verilog
+* R
+* Dart
+</pre>
+
+# tech stacks 
+<pre>
+1. MERN
+* MongoDB
+* Express js
+* React js
+* Node js
+(and some CSS)
+2. 
+* Postgresql
+* Java 16(backend)
+* Java Swing(frontend)
+</pre>
+
+# software engineering architectures
+<pre>
+MVC (model-view-controller)           	                                                        
+Microservices (Docker, Kafka)   
+</pre>
+
+# Data Analysis	
+<pre>
+Python, Matlab, Octave, R		                                         
+</pre>
+
+# Machine Learning & Deep Learning
+<pre>
+Python (various libraries), Pytorch, Pytorch Geometric                        
+</pre>
+
+# Objective Programming
+<pre>
+C++, Java
+</pre>
+
+# OS
 <pre>
 1. MacOS
 2. Windows
 3. Linux
 </pre>
 
-## MS Office / iWork 							
+# MS Office / iWork 							
 <pre>
 Word/Pages, Excel/Numbers, Power Point/Keynote, Teams 
 </pre>
 
-## Useful tools
+# Useful tools
 <pre>
 * adobe scan/camscanner
 * (https://www.ilovepdf.com/) for pdf processing
