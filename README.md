@@ -1,6 +1,45 @@
 # soft-tech-langs  
 This is a point of reference to everything I am familiarised with.  
 
+## languages 
+<pre>
+* C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
+* C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
+* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
+* Prolog        (used for: logic associated problems and machine learning)
+* SML           (used for: function logic associated problems)
+* Java          (object-oriented/backend/frontend)
+* Javascript    (backend)
+* CSS
+* Octave
+* Matlab
+* Assembly      (MIPS, 8085, 8086)
+* Assembly      (microcontroller: AVR Mega16)
+* Verilog
+* R
+* Dart
+</pre>
+
+## tech stacks 
+<pre>
+1. MERN
+* MongoDB
+* Express js
+* React js
+* Node js
+(and some CSS)
+2. 
+* Postgresql
+* Java 16(backend)
+* Java Swing(frontend)
+</pre>
+
+## software engineering architectures
+<pre>
+MVC	(model-view-controller)           	                                                        
+Microservices (Docker, Kafka)   
+</pre>
+
 ## environments 
 ### for computer engineering 
 #### coding
@@ -70,39 +109,6 @@ This is a point of reference to everything I am familiarised with.
 * Matlab              (focused on: E/M fields I,II)
 * Simulink            (focused on: Industrial electronics)
 * GNU octave          (focused on:  E/M fields I,II, structure and electrical properties of materials)
-</pre>
-
-## tech stacks 
-<pre>
-1. MERN
-* MongoDB
-* Express js
-* React js
-* Node js
-(and some CSS)
-2. 
-* Postgresql
-* Java 16(backend)
-* Java Swing(frontend)
-</pre>
-
-## languages 
-<pre>
-* C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
-* C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
-* Python        (focused on: machine learning, ai algorithms, algorithms, scripts, data processing)(libraries: pandas, numpy)
-* Prolog        (used for: logic associated problems and machine learning)
-* SML           (used for: function logic associated problems)
-* Java          (object-oriented/backend/frontend)
-* Javascript    (backend)
-* CSS
-* Octave
-* Matlab
-* Assembly      (MIPS, 8085, 8086)
-* Assembly      (microcontroller: AVR Mega16)
-* Verilog
-* R
-* Dart
 </pre>
 
 ## OS
