@@ -133,12 +133,12 @@ Microservices (Docker, Kafka)
 
 # Data Analysis	
 <pre>
-Python, Matlab, Octave, R		                                         
+Python (numpy, pandas, etc), Matlab, Octave, R		                                         
 </pre>
 
 # Machine Learning & Deep Learning
 <pre>
-Python (various libraries), Pytorch, Pytorch Geometric                        
+Python (various libraries), sklearn, Pytorch, Pytorch Geometric                        
 </pre>
 
 # Objective Programming
