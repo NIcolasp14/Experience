@@ -1,12 +1,24 @@
 # Experience
 This is a point of reference to everything I am familiarised with. Also, chech at timeline sketch.
 
-# 
+# Learning Experiences
+---
 
 
 # General Overview
-# Software Engineering
-### tech stacks 
+---
+## Data Analysis	
+<pre>
+Python (numpy, pandas, etc), Matlab, Octave, R		                                         
+</pre>
+
+## Machine Learning & Deep Learning
+<pre>
+Python (various libraries), sklearn, Pytorch, Pytorch Geometric                        
+</pre>
+
+## Software Engineering
+#### tech stacks 
 <pre>
 1. MERN
 * MongoDB
@@ -20,37 +32,37 @@ This is a point of reference to everything I am familiarised with. Also, chech a
 * Java Swing(frontend)
 </pre>
 
-### architectures
+#### architectures
 <pre>
 MVC (model-view-controller)           	                                                        
 Microservices (Docker, Kafka)   
 </pre>
 
-### database management
+#### database management
 <pre>
 * Robo3T
 * Postman
 * pgAdmin
 </pre>
 
-### project management
+#### project management
 <pre>
 * Youtrack(agile management, scrum)
 </pre>
 
-### code management
+#### code management
 <pre>
 * Git
 * Github(duh)
 </pre>
 
-### documentation
+#### documentation
 * Visual Paradigm          (for UML/BPMN diagrams)
 * Camunda modeler          (for BPMN)
 * ( https://nosqldbm.ru/ ) (for JSON schema diagram formation)
 
-# working in environments / software familiarisation
-## for computer engineering 
+## working in environments / software familiarisation
+### for computer engineering 
 #### coding
 <pre>
 * Atom
@@ -104,7 +116,7 @@ Microservices (Docker, Kafka)
 * Weka
 </pre>
 
-## for electrical engineering  
+### for electrical engineering  
 <pre>
 * LTSpice             (focused on: transistors, electronics)
 * PanelCad            (used for: architectural and electrical design)
@@ -116,7 +128,7 @@ Microservices (Docker, Kafka)
 </pre>
 
 
-# languages 
+## languages 
 <pre>
 * C             (focused on: algorithms, operating systems, microcontroller: AVR Mega16)
 * C++           (focused on: algorithms, data structures, object orientation, advanced programming techniques)
@@ -135,34 +147,24 @@ Microservices (Docker, Kafka)
 * Dart
 </pre>
 
-# Data Analysis	
-<pre>
-Python (numpy, pandas, etc), Matlab, Octave, R		                                         
-</pre>
-
-# Machine Learning & Deep Learning
-<pre>
-Python (various libraries), sklearn, Pytorch, Pytorch Geometric                        
-</pre>
-
-# Objective Programming
+## Objective Programming
 <pre>
 C++, Java
 </pre>
 
-# OS
+## OS
 <pre>
 1. MacOS
 2. Windows
 3. Linux
 </pre>
 
-# MS Office / iWork 							
+## MS Office / iWork 							
 <pre>
 Word/Pages, Excel/Numbers, Power Point/Keynote, Teams 
 </pre>
 
-# Useful tools
+## Useful tools
 <pre>
 * adobe scan/camscanner
 * (https://www.ilovepdf.com/) for pdf processing
