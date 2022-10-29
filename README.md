@@ -1,5 +1,5 @@
 # Experience
-This is a point of reference to everything I am familiarised with. Also, chech at timeline sketch.
+This is a point of reference to everything I am familiarised with. Also, check out timeline sketch.
 
 # Learning Experiences
 
