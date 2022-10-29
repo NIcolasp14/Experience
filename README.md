@@ -2,11 +2,10 @@
 This is a point of reference to everything I am familiarised with. Also, chech at timeline sketch.
 
 # Learning Experiences
----
+
 
 
 # General Overview
----
 ## Data Analysis	
 <pre>
 Python (numpy, pandas, etc), Matlab, Octave, R		                                         
