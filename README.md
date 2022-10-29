@@ -1,6 +1,10 @@
 # Experience
-This is a point of reference to everything I am familiarised with.  
+This is a point of reference to everything I am familiarised with. Also, chech at timeline sketch.
 
+# 
+
+
+# General Overview
 # Software Engineering
 ### tech stacks 
 <pre>
