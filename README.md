@@ -169,7 +169,7 @@ Word/Pages, Excel/Numbers, Power Point/Keynote, Teams
 
 # Learning Experience
 ### Education
-##### Oct 2018 - (Sept 2023), National Technical University of Athens
+#### Oct 2018 - (Sept 2023), National Technical University of Athens
 B.Eng. & M.Eng. Electrical and Computer Engineering  
 Specialising in Computer Science (ML, DL, Algo, Softeng), Bioinformatics, Management  
 
