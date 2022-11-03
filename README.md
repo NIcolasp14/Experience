@@ -179,8 +179,9 @@ Specialising in Computer Science (ML, DL, Algo, Softeng), Bioinformatics, Manage
 #### Oct 2017 - Sept 2018, National Kapodistrian University of Athens
 Studied Physics for one year at NKUA, before I decided to pursue Electrical and Computer Engineering at NTUA. During this year, apart from the courses’ value, I got to know the critical and theoretical thinking of a physicist, as well as the 'First Principle' reasoning.
 
-### seminars/workshops/speeches/conferences
-Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/)  
+### seminars/workshops/speeches/conferences/panels
+Nov 2022 - NTUAI, NTUA AI seminar
+Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/) (Vodafone, EY, )   
 May 2022 - tedxathens 2022  
 May 2022 - tedxntua 2022 + workshops (EY and Deree)   
 Dec 2019 - Daskalakis' speech (https://www.megaron.gr/event/konstantinos-daskalakis/)    
@@ -197,4 +198,9 @@ Dec 2019 - BPuzzled NTUA placed top 10 (cant remember exact placement)
 ### Volunteering
 Nov 2018 - May 2019: IEEE Student Branch NTUA, RAS (Robotic Automation Society). Would come back as a team leader if it wasn’t for COVID-19.  
 Sept 2014 - June 2016: Teaching computer lessons for free to young Congolese teens. (Windows OS familiarisation, basics of coding, MS Office)  
-May 2010 - June 2016: Providing necessities to poverty-stricken regions in Lubumbashi, mainly to families and children. Was tied to a big family, spent quality time and provided guidance to the children.  
+May 2010 - June 2016: Providing necessities to poverty-stricken regions in Lubumbashi, mainly to families and children. Was tied to a big family, spent quality time and provided guidance to the children.   
+
+### Uni Courses
+#### ECE, NTUA
+
+#### Physics Department, NKUA
