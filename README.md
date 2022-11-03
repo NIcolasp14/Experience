@@ -106,7 +106,7 @@ Microservices (Docker, Kafka)
 * Github(duh)
 </pre>
 
-#### Bioinformatics
+#### bioinformatics
 <pre>
 * Weka
 * Praat
@@ -178,4 +178,8 @@ May 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, particip
 Apr 2019 - Job Fair Athens (+ panel about big data)  
 Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch and Bloomberg (https://www.ece.ntua.gr/gr/article/235)  
 
+### competitions
+July 2022 - Winning Biotech Day 2022, a Biotechnology Innovation Competition  
+Oct 2019 - Top 30% in IEEExtreme 13.0 as a freshman with a team of freshmen with no algorithmic background - A 24h programming competition  
+Dec 2019 - BPuzzled NTUA placed top 10 (cant remember exact placement)  
 
