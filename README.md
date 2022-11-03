@@ -200,7 +200,12 @@ Nov 2018 - May 2019: IEEE Student Branch NTUA, RAS (Robotic Automation Society).
 Sept 2014 - June 2016: Teaching computer lessons for free to young Congolese teens. (Windows OS familiarisation, basics of coding, MS Office)  
 May 2010 - June 2016: Providing necessities to poverty-stricken regions in Lubumbashi, mainly to families and children. Was tied to a big family, spent quality time and provided guidance to the children.   
 
+### Courses
+Udemy Python Course: 2022 Complete Python Bootcamp From Zero to Hero in Python by Jose Portilla
+
 ### Uni Courses
+#### Extra
+Stanford CS224W: ML with Graphs 
 #### ECE, NTUA
 
 #### Physics Department, NKUA
