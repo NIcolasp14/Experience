@@ -2,7 +2,8 @@
 This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch. The following info are organised above into folders. (to do: add roadmaps)
 
 ### About me
-Born in Athens. Raised in the Democratic Republic of the Congo (2007-2016). Currently, I am studying Electrical and Computer Engineering at NTUA, Greece.
+Born in Athens. Raised in the Democratic Republic of the Congo (2007-2016).  
+Currently, I am studying Electrical and Computer Engineering at NTUA, Greece.
 
 # Fields Overview
 ## Data Analysis	
