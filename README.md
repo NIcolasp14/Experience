@@ -1,5 +1,8 @@
 # Experience
-This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch.
+This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch. The following info are organised above into folders.
+
+### About me
+Born in Athens. Raised in the Democratic Republic of the Congo (2007-2016). Currently, I am studying Electrical and Computer Engineering at NTUA, Greece.
 
 # Fields Overview
 ## Data Analysis	
@@ -191,3 +194,7 @@ July 2022 - Winning Biotech Day 2022, a Biotechnology Innovation Competition
 Oct 2019 - Top 30% in IEEExtreme 13.0 as a freshman with a team of freshmen with no algorithmic background - A 24h programming competition  
 Dec 2019 - BPuzzled NTUA placed top 10 (cant remember exact placement)  
 
+### Volunteering
+Nov 2018 - May 2019: IEEE Student Branch NTUA, RAS (Robotic Automation Society). Would come back as a team leader if it wasn’t for COVID-19.  
+Sept 2014 - June 2016: Teaching computer lessons for free to young Congolese teens. (Windows OS familiarisation, basics of coding, MS Office)  
+May 2010 - June 2016: Providing necessities to poverty-stricken regions in Lubumbashi, mainly to families and children. Was tied to a big family, spent quality time and provided guidance to the children.  
