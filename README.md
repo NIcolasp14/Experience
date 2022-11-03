@@ -198,7 +198,7 @@ Specialising in Computer Science (ML, DL, Algo, Softeng), Bioinformatics, Manage
 #### Oct 2017 - Sept 2018, National Kapodistrian University of Athens
 Studied Physics for one year at NKUA, before I decided to pursue Electrical and Computer Engineering at NTUA. During this year, apart from the courses’ value, I got to know the critical and theoretical thinking of a physicist, as well as the 'First Principle' reasoning.
 
-### seminars/workshops/speeches/conferences/panels
+### Seminars/Workshops/Speeches/Conferences/Panels
 Nov 2022 - NTUAI, NTUA AI seminar
 Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/) (Vodafone, EY, )   
 May 2022 - tedxathens 2022  
@@ -209,7 +209,7 @@ May 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, particip
 Apr 2019 - Job Fair Athens (+ panel about big data)  
 Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch and Bloomberg (https://www.ece.ntua.gr/gr/article/235)  
 
-### competitions
+### Competitions
 July 2022 - Winning Biotech Day 2022, a Biotechnology Innovation Competition  
 Oct 2019 - Top 30% in IEEExtreme 13.0 as a freshman with a team of freshmen with no algorithmic background - A 24h programming competition  
 Dec 2019 - BPuzzled NTUA placed top 10 (cant remember exact placement)  
