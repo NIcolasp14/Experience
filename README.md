@@ -180,7 +180,7 @@ Studied Physics for one year at NKUA, before I decided to pursue Electrical and 
 Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/)  
 May 2022 - tedxathens 2022  
 May 2022 - tedxntua 2022 + workshops (EY and Deree)   
-Dec 2019 - Daskalakis speech (https://www.megaron.gr/event/konstantinos-daskalakis/)    
+Dec 2019 - Daskalakis' speech (https://www.megaron.gr/event/konstantinos-daskalakis/)    
 Sept 2019 - Researcher's Night (vradia erevniti, participated also as an ΙΕΕΕ NTUA Student Branch, RAS Society volunteer)  
 May 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, participated as a (teaching assistant) volunteer  
 Apr 2019 - Job Fair Athens (+ panel about big data)  
