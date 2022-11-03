@@ -6,14 +6,14 @@ Born in Athens. Raised in the Democratic Republic of the Congo (2007-2016).
 Currently, I am studying Electrical and Computer Engineering at NTUA, Greece.
 
 # Fields Overview
-## Data Analysis	
-<pre>
-Python (numpy, pandas, etc), Matlab, Octave, R		                                         
-</pre>
-
 ## Machine Learning & Deep Learning
 <pre>
 Python (various libraries), sklearn, Pytorch, Pytorch Geometric                        
+</pre>
+
+## Data Science
+<pre>
+Python (numpy, pandas, etc), Matlab, Octave, R		                                         
 </pre>
 
 ## Software Engineering
@@ -59,6 +59,22 @@ Microservices (Docker, Kafka)
 * Visual Paradigm          (for UML/BPMN diagrams)
 * Camunda modeler          (for BPMN)
 * ( https://nosqldbm.ru/ ) (for JSON schema diagram formation)
+
+# Projects
+### Machine Learning & Deep Learning
+<pre>
+TBA                     
+</pre>
+
+### Data Science
+<pre>
+TBA                     
+</pre>
+
+### Software Engineering
+<pre>
+TBA                     
+</pre>
 
 # working in environments / software familiarisation
 ### for computer engineering 
