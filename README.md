@@ -1,7 +1,7 @@
 # Experience
 This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch.
 
-# Learning Experiences/General Overview
+# General Overview
 ## Data Analysis	
 <pre>
 Python (numpy, pandas, etc), Matlab, Octave, R		                                         
@@ -165,3 +165,14 @@ Word/Pages, Excel/Numbers, Power Point/Keynote, Teams
 * (https://www.ilovepdf.com/) for pdf processing
 * Adobe Reader(useful printing options)
 </pre>
+
+# Learning Experiences
+### seminars
+Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/)  
+May 2022 - tedxathens 2022  
+May 2022 - tedxntua 2022 + workshops (EY and Deree)  
+Dec 2019 - Daskalakis speech(https://www.megaron.gr/event/konstantinos-daskalakis/)
+Apr 2019 - Job Fair Athens   
+Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch (https://www.ece.ntua.gr/gr/article/235)  
+
+
