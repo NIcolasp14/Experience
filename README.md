@@ -172,7 +172,7 @@ Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/)
 May 2022 - tedxathens 2022  
 May 2022 - tedxntua 2022 + workshops (EY and Deree)   
 Dec 2019 - Daskalakis speech (https://www.megaron.gr/event/konstantinos-daskalakis/)   
-Μαυ 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, participated as a (teaching assistant) volunteer
+Μαυ 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, participated as a (teaching assistant) volunteer  
 Apr 2019 - Job Fair Athens     
 Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch (https://www.ece.ntua.gr/gr/article/235)  
 
