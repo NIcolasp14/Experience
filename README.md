@@ -174,7 +174,7 @@ May 2022 - tedxntua 2022 + workshops (EY and Deree)
 Dec 2019 - Daskalakis speech (https://www.megaron.gr/event/konstantinos-daskalakis/)    
 Sept 2019 - Researcher's Night (vradia erevniti, participated also as an ΙΕΕΕ NTUA Student Branch, RAS Society volunteer)  
 May 2019 - ΙΕΕΕ NTUA Student Branch, RAS Society, arduino workshop, participated as a (teaching assistant) volunteer  
-Apr 2019 - Job Fair Athens     
-Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch (https://www.ece.ntua.gr/gr/article/235)  
+Apr 2019 - Job Fair Athens (+ panel about big data)  
+Nov 2018 - Ethereum Blockchain Workshop under the auspices of the IEEE NTUA Student Branch and Bloomberg (https://www.ece.ntua.gr/gr/article/235)  
 
 
