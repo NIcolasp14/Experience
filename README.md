@@ -1,11 +1,7 @@
 # Experience
 This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch.
 
-# Learning Experiences
-
-
-
-# General Overview
+# Learning Experiences/General Overview
 ## Data Analysis	
 <pre>
 Python (numpy, pandas, etc), Matlab, Octave, R		                                         
@@ -60,7 +56,7 @@ Microservices (Docker, Kafka)
 * Camunda modeler          (for BPMN)
 * ( https://nosqldbm.ru/ ) (for JSON schema diagram formation)
 
-## working in environments / software familiarisation
+# working in environments / software familiarisation
 ### for computer engineering 
 #### coding
 <pre>
