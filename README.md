@@ -106,9 +106,10 @@ Microservices (Docker, Kafka)
 * Github(duh)
 </pre>
 
-#### other
+#### Bioinformatics
 <pre>
 * Weka
+* Praat
 </pre>
 
 ### for electrical engineering  
