@@ -167,7 +167,15 @@ Word/Pages, Excel/Numbers, Power Point/Keynote, Teams
 * Adobe Reader(useful printing options)
 </pre>
 
-# Learning Experiences
+# Learning Experience
+### Education
+##### Oct 2018 - (Sept 2023), National Technical University of Athens
+B.Eng. & M.Eng. Electrical and Computer Engineering  
+Specialising in Computer Science (ML, DL, Algo, Softeng), Bioinformatics, Management  
+
+#### Oct 2017 - Sept 2018, National Kapodistrian University of Athens
+Studied Physics for one year at NKUA, before I decided to pursue Electrical and Computer Engineering at NTUA. During this year, apart from the courses’ value, I got to know the critical and theoretical thinking of a physicist, as well as the 'First Principle' reasoning.
+
 ### seminars/workshops/speeches/conferences
 Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/)  
 May 2022 - tedxathens 2022  
