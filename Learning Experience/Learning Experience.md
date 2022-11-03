@@ -10,7 +10,7 @@ Studied Physics for one year at NKUA, before I decided to pursue Electrical and 
 ### seminars/workshops/speeches/conferences/panels
 Nov 2022 - NTUAI, NTUA AI seminar
 Nov 2022 - Business days (https://www.pan-orama.org/BusinessDays/) (Vodafone, EY, )   
-May 2022 - tedxathens 2022  
+May 2022 - tedxathens 2022 (had an insightful conversation with Dr Menas Kafatos)  
 May 2022 - tedxntua 2022 + workshops (EY and Deree)   
 Dec 2019 - Daskalakis' speech (https://www.megaron.gr/event/konstantinos-daskalakis/)    
 Sept 2019 - Researcher's Night (vradia erevniti, participated also as an ΙΕΕΕ NTUA Student Branch, RAS Society volunteer)  
