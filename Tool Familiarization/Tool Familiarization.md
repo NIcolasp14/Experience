@@ -52,6 +52,7 @@
 <pre>
 * Weka
 * Praat
+* SPM simulator
 </pre>
 
 ### for electrical engineering  
