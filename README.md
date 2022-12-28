@@ -1,5 +1,5 @@
 # Experience
-This is a point of reference to everything I am familiarised with. Also, check out the timeline sketch. The following info are organised above into folders. 
+This is a point of reference to everything I am familiarised with (soft-tech-langs-stacks-envs-fields). Also, check out the timeline sketch. The following info are organised above into folders. 
 
 ### (to do: add roadmaps)
 
